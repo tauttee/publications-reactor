@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/publications-api/publications-api.iml" filepath="$PROJECT_DIR$/publications-api/publications-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publications-business/publications-business.iml" filepath="$PROJECT_DIR$/publications-business/publications-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publications-dao/publications-dao.iml" filepath="$PROJECT_DIR$/publications-dao/publications-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publications-model/publications-model.iml" filepath="$PROJECT_DIR$/publications-model/publications-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publications-parent/publications-parent.iml" filepath="$PROJECT_DIR$/publications-parent/publications-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publications-reactor.iml" filepath="$PROJECT_DIR$/publications-reactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publications-utils/publications-utils.iml" filepath="$PROJECT_DIR$/publications-utils/publications-utils.iml" />
+    </modules>
+  </component>
+</project>
